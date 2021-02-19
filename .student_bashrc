@@ -1,0 +1,2 @@
+FLASK_APP='main/api/backend_rest_api.py'
+source setup.sh
